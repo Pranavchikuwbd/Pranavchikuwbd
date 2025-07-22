@@ -1,4 +1,4 @@
-👋 Hi, I’m [@pranavchiku](https://github.com/pranavchiku)
+🦒 Hi, I’m [@pranavchiku](https://github.com/pranavchiku)
 
 <!---
 Pranavchikuwbd/Pranavchikuwbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
